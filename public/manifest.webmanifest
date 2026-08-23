@@ -1,0 +1,12 @@
+{
+  "name": "Clair — Budget",
+  "short_name": "Clair",
+  "description": "Gestion de budget simple et visuelle",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f2ed",
+  "theme_color": "#292925",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
